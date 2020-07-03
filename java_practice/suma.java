@@ -7,6 +7,6 @@ public class suma{
         int result = 0;
 
         result = a + b;
-        System.out.println("the sum value is: " + result);
+        System.out.println("The sum value is: " + result);
     }
 }
